@@ -1,0 +1,10 @@
+*		text=auto
+
+# batch files
+
+*.sh		text eol=lf
+*.bat		text eol=crlf
+*.md		text
+
+
+
