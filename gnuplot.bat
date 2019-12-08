@@ -1,8 +1,8 @@
 @echo off
 
-#
-# Gnuplot call
-#
+::
+:: Gnuplot call
+::
 
 if [%1]==[] goto usage
 

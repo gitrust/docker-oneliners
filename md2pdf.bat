@@ -1,8 +1,8 @@
 @echo off
 
-#
-# Markdown to PDF converter
-#
+::
+:: Markdown to PDF converter
+::
 
 if [%1]==[] goto usage
 
